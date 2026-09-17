@@ -1,4 +1,4 @@
-# 🤖 Applied AI & Machine Learning — Lab Assignments
+# 🤖 Tata Tech Pulse— Lab Assignments
 
 > **Course:** Applied AI ML | **Track:** AI & ML | **Level:** Intermediate  
 > **Program:** TechPulse FY-26 — Tata Technologies Ltd.
