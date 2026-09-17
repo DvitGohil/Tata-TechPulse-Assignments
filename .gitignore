@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated output files
+*.png
+*.jpg
+*.jpeg
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Model artifacts (generated at runtime)
+mlops_artifacts/
+
+# Saved models
+*.pkl
+*.h5
+*.keras

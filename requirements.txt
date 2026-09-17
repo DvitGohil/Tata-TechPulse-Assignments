@@ -1,0 +1,30 @@
+# Applied AI/ML Lab Assignments - Requirements
+# Install all dependencies: pip install -r requirements.txt
+
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Natural Language Processing
+nltk>=3.8.0
+
+# MLOps
+mlflow>=2.5.0
+
+# Gradient Boosting
+xgboost>=1.7.0
+
+# Utilities
+joblib>=1.3.0
