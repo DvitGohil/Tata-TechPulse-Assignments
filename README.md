@@ -136,13 +136,6 @@ python predictive_maintenance.py
 
 ---
 
-## 📝 License
-
-This project is for educational purposes as part of the TechPulse FY-26 program by Tata Technologies Ltd.
-
----
-
 ## 🙋 Author
 
 **Dvit Gohil**  
-MIT WPU | Applied AI & ML Track
